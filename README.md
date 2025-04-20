@@ -16,8 +16,16 @@ Pandas를 활용하여 **외국인 의료관광 소비 데이터**를 분석한 
 ---
 
 ## 🗂 폴더 구조
-medical_tourism_analysis/ ├── data/ │ ├── P_DATA/ # 진료과목별 소비비율 데이터 │ ├── T_DATA/ # 실제 총 소비건수/금액 │ └── raw/ # 원본 엑셀 및 참고 파일 │ ├── Medi_Tour.ipynb # 전체 분석 코드 ├── README.md # 프로젝트 설명 └── 발표자료.pptx (선택)
 
+```
+medical_tourism_analysis/
+├── data/
+│   ├── P_DATA/            # 진료과목별 소비비율 데이터
+│   ├── T_DATA/            # 실제 총 소비건수/금액
+│   └── raw/               # 원본 엑셀 및 참고 파일
+├── Medi_Tour.ipynb        # 전체 분석 코드
+└── README.md              # 프로젝트 설명
+```
 
 ---
 
