@@ -76,3 +76,7 @@ medical_tourism_analysis/ ├── data/ │ ├── P_DATA/ # 진료과목�
 - **역할:** 데이터 통합 및 전처리 / 소비금액-건수 분석 / 상관관계 분석 / 시각화
 
 ---
+
+## 🔗 관련 링크
+
+- [노션 프로젝트 상세 보기](https://yeonghyekim.notion.site/183e2859370c803ebdacdfd92cc4dae4?pvs=4)
